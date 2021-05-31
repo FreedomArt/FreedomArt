@@ -2,11 +2,11 @@
 
 ### Hi 👋
 
-> Looking for interesting and useful solutions?
->
-> They are here 👇
-> 
-> ### Hi there 👋
+Looking for interesting and useful solutions?
+
+They are here 👇
+
+### Hi there 👋
 
 <!--
 **FreedomArt/FreedomArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
